@@ -14,3 +14,6 @@ gem "dotenv", "~> 2.4"
 
 # Added at 2018-05-06 11:28:36 -0400 by jay:
 gem "pry-byebug", "~> 3.6", :group => [:development]
+
+# Added at 2018-05-18 13:22:24 -0400 by jay:
+gem "puma", "~> 3.11", :group => [:production]
