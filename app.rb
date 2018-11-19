@@ -1,8 +1,6 @@
 require 'json'
 require 'sinatra'
 
-require 'pry-byebug'
-
 require_relative 'password_maker'
 
 before do
